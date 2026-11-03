@@ -1,0 +1,1 @@
+Tekstforandring.textContent = ("Sjekk ut Oneshot!")
